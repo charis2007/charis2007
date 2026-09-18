@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, ich bin Charis 👋
 
-<!--
-**charis2007/charis2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin Softwareentwickler und Webdesigner aus Deutschland. Aktuell orientiere ich mich in Richtung eines Studiums im IT-Bereich. In der Praxis entwickle ich bereits Webanwendungen – von performanten PWAs bis hin zu maßgeschneiderten Unternehmenswebsites – und beschäftige mich intensiv mit Algorithmen und Datenstrukturen.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+* **Sprachen:** Java, Python, JavaScript, HTML/CSS
+* **Frontend:** Tailwind CSS
+* **Infrastruktur & Hosting:** Docker, Cloudflare, Vercel, Raspberry Pi (Self-Hosting)
+* **Datenanalyse:** Pandas, NumPy, yfinance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Aktuelle Projekte & Fokus
+* **Track-Rank:** Entwicklung einer Progressive Web App (PWA) für Echtzeit-GPS-Tracking und Fahrzeug-Performance-Messungen.
+* **Weblösungen Hagen:** Technische Umsetzung und Hosting von Webauftritten für gewerbliche Kunden.
+* **Portfolio-Optimierung:** Erforschung genetischer Algorithmen in Python zur Optimierung von Aktienportfolios (Sharpe Ratio).
+
+### 📫 Kontakt
+* **Website:** https://xn--weblsungen-hagen-pwb.de/
+* **LinkedIn:** [Dein Profil](https://...)
+* **Email:** charis@weblösungen-hagen.de
